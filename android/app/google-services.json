@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "741124145465",
+    "firebase_url": "https://arduino-fb-rtdb-default-rtdb.firebaseio.com",
+    "project_id": "arduino-fb-rtdb",
+    "storage_bucket": "arduino-fb-rtdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741124145465:android:74d9be5cdc4d6585d6a8e8",
+        "android_client_info": {
+          "package_name": "com.example.dsm_admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfdJG01VW8D7vuQ2aHz-Z3Lnpmc2KRtM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
